@@ -12,6 +12,14 @@ And i find the easy way use css mask , then make new looking to new picture
 
 ### ueage
 
+---
+
+Web: [JsBin - github look like](http://jsbin.com/yepoduvavi/edit?html,js,output)
+
+---
+
+or local
+
 >  git clone this project and  `npm i`/`yarn` before
 
 #### 1. change `background-color`
