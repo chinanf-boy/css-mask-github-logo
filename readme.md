@@ -2,7 +2,7 @@
 
 that html coming from https://dikmax.name/demos/css-masking/
 
-show me how to make my github logo with the easy way
+show me how to make my github logo with the easy way, `crop` the web page
 
 ![logo](https://avatars2.githubusercontent.com/u/20272484?s=460&v=4)
 
@@ -38,11 +38,15 @@ or local
 
 #### 3. npm start
 
-look website
+look website, and `crop` the web page
 
 ### what is next
 
-- [ ] cli??
+- [ ] cli?? 
+
+https://github.com/GoogleChrome/puppeteer 
+
+> Too big, just one , dont need this
 
 - [ ] website can change src/color
 
